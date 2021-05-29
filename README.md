@@ -72,8 +72,9 @@ A milestone is a where guild members can organise tasks, see the progress in a g
 
 <img width="624" alt="Screenshot 2021-05-29 at 21 26 26" src="https://user-images.githubusercontent.com/61943384/120083995-99b79380-c0c4-11eb-8798-18dd0d20af66.png">
 
-# Collaborators
+# Created by
 
+[@tarumae](https://github.com/tarumae)
 
 [@dan-90](https://github.com/dan-90)
 
