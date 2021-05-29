@@ -5,7 +5,7 @@ work together towards a common goal through milestones and tasks.
 
 Interested?
 
-[Sign up and have a look!](https://www.theguild.fun)
+[Sign up and have a look!](https://theguild-lw.herokuapp.com)
 
 # Tech stacks
 
