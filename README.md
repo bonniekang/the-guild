@@ -1,5 +1,5 @@
 # The Guild
-<img width="624" alt="guild-1" src="https://user-images.githubusercontent.com/61943384/120079877-f196d000-c0ad-11eb-87a2-8fed68cd845d.png">
+<img width="1440" alt="guild-1" src="https://user-images.githubusercontent.com/61943384/120079877-f196d000-c0ad-11eb-87a2-8fed68cd845d.png">
 The Guild is a social media platform for families, groups of friends, gaming clans or even project groups and co-workers. Allows you to quickly communicate with each other and
 work together towards a common goal through milestones and tasks.
 
